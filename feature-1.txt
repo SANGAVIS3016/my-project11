@@ -1,0 +1,1 @@
+Create two branches, feature-2 and feature-3, from the main branch, modify index.html by adding a paragraph in feature-2 and changing the heading in feature-3, merge feature-2 into main, attempt to merge feature-3, resolve the merge conflict by retaining both changes, and commit the resolved file. Create two branches named feature-2 and feature-3 from the main branch.
